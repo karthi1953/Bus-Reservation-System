@@ -7,6 +7,7 @@ This beginner-friendly project is perfect for those starting with Java and want 
 ---
 
 ## ✨ Features
+
 - Add and view available buses  
 - Reserve seats for passengers  
 - Simple console interface  
@@ -119,4 +120,5 @@ This single `README.md` contains:
 
 
 Want me to also **add GitHub badges** (like Java version, License, Good First Issue) to make it look more professional?
+
 
