@@ -1,6 +1,7 @@
 # 🚌 Bus Reservation System (Java)
 
 A simple **console-based Bus Reservation System** built in Java.  
+
 This beginner-friendly project is perfect for those starting with Java and want to understand basic concepts like **classes, objects, arrays, loops, and user input handling**.  
 
 ---
@@ -118,3 +119,4 @@ This single `README.md` contains:
 
 
 Want me to also **add GitHub badges** (like Java version, License, Good First Issue) to make it look more professional?
+
